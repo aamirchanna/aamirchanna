@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aamirchanna, a passionate Front-End Developer eager to transform innovative ideas into user-centric digital experiences.
-- 👀 I’m interested in exploring the latest advancements in UI/UX design, cross-platform development.
+- 👋 Hi, I’m @aamirchanna, a passionate Front-End Developer.
+- 👀 I’m interested in exploring the latest advancements in UI/UX design.
 - 🌱 I’m currently learning about the intricacies of React Native, delving into the world of Progressive Web Apps, and enhancing my skills in responsive design techniques.
 - 💞️ I’m looking to collaborate on projects that challenge my abilities, allow me to contribute to meaningful solutions, and foster a collaborative.
 - 📫 You can reach me via email or connect with me on LinkedIn.
